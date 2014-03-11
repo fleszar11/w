@@ -1,8 +1,8 @@
-#include  <iostream>
+#include <iostream.h>
 
-int main()
+main()
 {
-std::cout << "Hello world" << std::endl;
-system("PAUSE");
-return 0;
-}
+    for(;;)
+    {
+        cout << "Hello World! ";
+    }}
